@@ -1,0 +1,13 @@
+C:\Users\djfpl\DNA\ForestExample\ForestExample\bin\Debug\netcoreapp3.1\ForestExample.exe
+C:\Users\djfpl\DNA\ForestExample\ForestExample\bin\Debug\netcoreapp3.1\ForestExample.deps.json
+C:\Users\djfpl\DNA\ForestExample\ForestExample\bin\Debug\netcoreapp3.1\ForestExample.runtimeconfig.json
+C:\Users\djfpl\DNA\ForestExample\ForestExample\bin\Debug\netcoreapp3.1\ForestExample.runtimeconfig.dev.json
+C:\Users\djfpl\DNA\ForestExample\ForestExample\bin\Debug\netcoreapp3.1\ForestExample.dll
+C:\Users\djfpl\DNA\ForestExample\ForestExample\bin\Debug\netcoreapp3.1\ForestExample.pdb
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.csprojAssemblyReference.cache
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.AssemblyInfoInputs.cache
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.AssemblyInfo.cs
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.csproj.CoreCompileInputs.cache
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.dll
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.pdb
+C:\Users\djfpl\DNA\ForestExample\ForestExample\obj\Debug\netcoreapp3.1\ForestExample.genruntimeconfig.cache
